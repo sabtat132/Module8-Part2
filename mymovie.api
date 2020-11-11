@@ -1,0 +1,11 @@
+MZ7AJiGIKIrgVSGsLi8BlNr7w26OOVzB
+
+https://api.nytimes.com/svc/search/v2/articlesearch.json?q=technology&api-key=MZ7AJiGIKIrgVSGsLi8BlNr7w26OOVzB
+
+
+movie - video 1
+https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=war&api-key=iXIkkxPqgdD8VQ5oKtby2rf4i38K3KzG
+api = code to get info back
+
+https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=big&opening-date=1980-01-01;1990-01-01&api-key=iXIkkxPqgdD8VQ5oKtby2rf4i38K3KzG
+can change the dates around, or switch for different api calls to access different information
